@@ -1,4 +1,4 @@
-# Task Manager
+# Task Manager ✅
 
 ## Video Demo: 
 [Watch the Demo](https://www.youtube.com/watch?feature=shared&v=yhM6n0UrNYk)
